@@ -1,0 +1,2 @@
+# Algoritmo_busqueda_binaria---Python
+Lo aplicado en esta clase se denomina Métodos Numéricos, el metodo usado en la clase es conocido como método de la bisección, es un tipo de búsqueda incremental en el que el intervalo se divide siempre a la mitad. Existen diversos métodos que tiene una mejor convergencia para la aproximación a la solución, el mas conocido es el metodo newtoh raphson. Pueden revisar este libro si les interesa aprender mas sobre Métodos Numéricos
